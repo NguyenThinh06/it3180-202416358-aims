@@ -3,7 +3,9 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
-
+## [1.0.1] - 2026-11-07
+### Fixed
+- Make `search_by_title()` case-insensitive (#20).
 ## [1.0.0] - 2026-11-07
 ### Added
 - `Cart.print_cart()` to display ordered DVDs and total cost.
