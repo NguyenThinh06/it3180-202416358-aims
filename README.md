@@ -4,3 +4,4 @@
 
 - Sinh viên: Nguyễn Văn Thịnh - 202416358
 - Chạy chương trình: `python main.py`
+- Yêu cầu: Python >= 3.10
